@@ -19,7 +19,6 @@ Installation
 -> Clone the repository:
 
 bash
-git clone https://github.com/your-username/ai-recipe-generator.git
 cd ai-recipe-generator
 Install dependencies:
 
